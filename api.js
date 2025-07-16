@@ -54,7 +54,6 @@ global.APIs = {
 },
 global.APIKeys = {
   'https://api.xteam.xyz': `${keysxteam}`,
-  'https://api.stellarwa.xyz': `BrunoSobrino`,
   'https://api.lolhuman.xyz': 'GataDios',
   'https://api.neoxr.my.id': `${keysneoxr}`,
   'https://api.zahwazein.xyz': `${keysxxx}`,
