@@ -9,19 +9,19 @@ const handler = async (m, {conn, usedPrefix}) => {
   const text = `${tradutor.texto1[0]}
 
 ${tradutor.texto1[1]}
-1.- https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j
+1.- https://chat.whatsapp.com/C31FNyuskxB7eiiCGaswWF
 
-2.- https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j
+2.- https://chat.whatsapp.com/C31FNyuskxB7eiiCGaswWF
 
-3.- https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j
+3.- https://chat.whatsapp.com/C31FNyuskxB7eiiCGaswWF
 
-4.- https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j
+4.- https://chat.whatsapp.com/C31FNyuskxB7eiiCGaswWF
 
 > Alexn Team  :
 
-1.- https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j
+1.- https://chat.whatsapp.com/C31FNyuskxB7eiiCGaswWF
 
-2.- https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j`.trim();
+2.- https://chat.whatsapp.com/C31FNyuskxB7eiiCGaswWF`.trim();
   const buttonMessage= {
     'document': {url: `https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓`},
     'mimetype': `application/${document}`,
