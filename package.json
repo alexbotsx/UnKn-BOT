@@ -14,8 +14,7 @@
     "qr": "node index.js qr",
     "code": "node index.js code",
     "eslint": "eslint .",
-    "eslintfix": "eslint --fix .",
-    "postinstall": "node pipdeps.js"
+    "eslintfix": "eslint --fix ."
   },
   "homepage": "https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓",
   "author": {
@@ -23,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓T.git"
+    "url": "git+https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓.git"
   },
   "bugs": {
     "url": "https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓/issues"
@@ -36,9 +35,8 @@
     "@green-code/music-track-data": "^2.0.3",
     "@sefinek/google-tts-api": "*",
     "@shineiichijo/marika": "^2.0.6",
-    "@shiroko/module": "github:shiroko-devs/star-module",
     "@vitalets/google-translate-api": "^8.0.0",
-    "baileys": "ds6/meta",
+    "baileys": "git+ssh://git@github.com/BrunoSobrino/Baileys-Itsukichann.git",
     "acrcloud": "^1.4.0",
     "aptoide-scraper": "github:DIEGO-OFC/dv-aptoide-scraper",
     "awesome-phonenumber": "^2.68.0",
